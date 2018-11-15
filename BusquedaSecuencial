@@ -1,0 +1,15 @@
+Busqueda secuencial
+
+La búsqueda secuencial consiste en revisar elemento tras elemento hasta encontrar el dato buscado,
+o llegar al final del conjunto de datos disponible.
+
+  La busqueda secuencial en arreglos consiste, básicamente, en recorrer el areglo
+de izquierda a derecha hasta que se encuentre el elemento bucado o se termine el arreglo, lo que 
+ocurra primero, normalmente cuando una función de busqueda concluye con éxito, interesa conocer 
+en que posición fue hallado el elemento que se estaba buscando. Esta idea se puede generalizar a todos
+los métodos de búsqueda.
+
+
+
+Osvaldo Cairó/Silvia Guardati. (206). Estructura de datos tercera edición. México:
+McGraw-Hill
