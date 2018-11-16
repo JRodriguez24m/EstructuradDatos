@@ -1,0 +1,16 @@
+Busqueda binaria 
+
+Consiste en dividir el intervalo de búsqueda en dos partes, comparando el elemento buscado con
+el que ocupa la posición central en el arreglo. Para el caso de que no fueran ifuales se redefinen
+los extremos del intervalo, según el elemento central sea mayor o menor que el elemento buscado, disminuyendo
+de esta forma el espacio de búsqueda. EL proceso concluye cuando el elemento es encontrado, o cuando el
+intervalo de la búsqueda se anula, es vacío.
+
+  El método de búsqueda binaria funciona exclusivamente con arreglos ordenados. No se puede utilizar con listas
+simplemente enlazadas -no podríamos retroceder para establecer intervañps de búsqieda- ni con arreglos desordenados.
+Con  cada iteración del método el espacio de búsqueda se reduce a la mitad; por lo tanto, el número de comparaciones a
+realizar disminuye notablemente. Esta disminusión resulta significativa cuanto más grande sea el tamaño del arreglo.
+
+
+Osvaldo Cairó/Silvia Guardati. (206). Estructura de datos tercera edición. México:
+McGraw-Hill
